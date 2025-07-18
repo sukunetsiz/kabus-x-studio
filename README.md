@@ -1,4 +1,12 @@
-# Kabus-X Private Monero Marketplace Script Development To-Do List
+<div align="center">
+
+# What is Kabus-X?
+
+</div>
+
+Kabus-X is a premium and custom version of Kabus, designed for high-end users who are willing to pay for enhanced features and advanced functionality.
+
+# Kabus-X Development To-Do List
 
 - [ ] Vendor Trust System - Rating system for vendors
 - [ ] Queue-Based Payment System - Efficient payment processing
