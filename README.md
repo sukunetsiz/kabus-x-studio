@@ -6,6 +6,12 @@
 
 Kabus-X is a premium and custom version of Kabus, designed for high-end users who are willing to pay for enhanced features and advanced functionality.
 
+<div align="center">
+
+# [Development History](COMMIT-HISTORY.md)
+
+</div>
+
 # Kabus-X Development To-Do List
 
 - [ ] Vendor Trust System - Rating system for vendors
@@ -20,3 +26,5 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 - [ ] Better Admin Control - Enhanced admin dashboard
 - [ ] New UI with No Sidebars - Clean, modern interface
 - [ ] Integrated Anti-Phishing Page - Onion address verification system
+- [ ] Separate Admin Layout - Dedicated administrative interface
+- [ ] Separate Vendor Layout - Dedicated vendor management interface
