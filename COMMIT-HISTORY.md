@@ -15,3 +15,4 @@
 - **Use Queue-based Order Processing**
 - **Create Search Filter Component**
 - **Full Migration to Admin Layout**
+- **Remove Bulk Options from Digital Products**
