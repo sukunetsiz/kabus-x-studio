@@ -17,3 +17,4 @@
 - **Full Migration to Admin Layout**
 - **Remove Bulk Options from Digital Products**
 - **Recreate Database Seeders**
+- **Update Logo and README.md**
