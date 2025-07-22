@@ -8,12 +8,13 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 
 <div align="center">
 
+<img src="kabus.png" alt="Kabus Logo">
+
 # [Development History](COMMIT-HISTORY.md)
 
 </div>
 
 # Kabus-X Development To-Do List
-
 - [ ] Vendor Trust System - Rating system for vendors
 - [X] Queue-Based Order System - Efficient order processing
 - [ ] Custom One-Click Captcha Integration - Proprietary captcha system
@@ -28,3 +29,5 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 - [ ] Integrated Anti-Phishing Page - Onion address verification system
 - [X] Separate Admin Layout - Dedicated administrative interface
 - [ ] Separate Vendor Layout - Dedicated vendor management interface
+- [ ] Mobile Responsive Design - Optimized mobile experience
+- [ ] Secure Hidden Service Guide - OPSEC documentation
