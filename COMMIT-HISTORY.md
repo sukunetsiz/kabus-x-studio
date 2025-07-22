@@ -18,3 +18,7 @@
 - **Remove Bulk Options from Digital Products**
 - **Recreate Database Seeders**
 - **Update Logo and README.md**
+
+## July 22, 2025
+
+- **Allow Only 1 Delivery Option for Digital Products (Must Be Free)**
