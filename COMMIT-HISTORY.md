@@ -22,3 +22,4 @@
 ## July 22, 2025
 
 - **Allow Only 1 Delivery Option for Digital Products (Must Be Free)**
+- **Test Auto Delivery**
