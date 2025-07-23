@@ -17,7 +17,7 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 # Kabus-X Development To-Do List
 - [ ] Vendor Trust System - Rating system for vendors
 - [X] Queue-Based Order System - Efficient order processing
-- [ ] Custom One-Click Captcha Integration - Proprietary captcha system
+- [ ] Custom One-Click CAPTCHA Integration - Open-source self-made CAPTCHA system
 - [ ] Custom Session Timer for Login - Adaptive session management
 - [X] Auto Delivery for Digital Products - Instant digital delivery
 - [ ] Image Feedback from Vendors for Dead Drop Orders - Photo proof system
