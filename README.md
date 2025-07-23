@@ -28,6 +28,6 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 - [ ] New UI with No Sidebars - Clean, modern interface
 - [ ] Integrated Anti-Phishing Page - Onion address verification system
 - [X] Separate Admin Layout - Dedicated administrative interface
-- [ ] Separate Vendor Layout - Dedicated vendor management interface
+- [X] Separate Vendor Layout - Dedicated vendor management interface
 - [ ] Mobile Responsive Design - Optimized mobile experience
 - [ ] Secure Hidden Service Guide - OPSEC documentation

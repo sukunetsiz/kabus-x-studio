@@ -28,3 +28,4 @@
 
 - **Finish Auto Delivery System for Digital Products**
 - **Create Vendor Layout**
+- **Full Migration to Vendor Layout**
