@@ -36,3 +36,4 @@
 - **Add ImageService**
 - **Add QrCodeService**
 - **Update endroid/qr-code library**
+- **Update Intervention/image-laravel Library**
