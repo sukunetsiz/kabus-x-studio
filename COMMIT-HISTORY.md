@@ -34,3 +34,4 @@
 
 - **Add Vendor Trust System**
 - **Add ImageService**
+- **Add QrCodeService**
