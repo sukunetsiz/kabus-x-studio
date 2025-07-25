@@ -37,3 +37,7 @@
 - **Add QrCodeService**
 - **Update endroid/qr-code library**
 - **Update Intervention/image-laravel Library**
+
+## July 25, 2025
+
+- **Update mobicms/captcha Library**
