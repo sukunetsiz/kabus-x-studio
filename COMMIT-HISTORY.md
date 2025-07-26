@@ -41,3 +41,7 @@
 ## July 25, 2025
 
 - **Update mobicms/captcha Library**
+
+## July 26, 2025
+
+- **Update Navbar and Add a Timer to Complete an Order**
