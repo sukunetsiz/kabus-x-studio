@@ -24,7 +24,7 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 - ⬜ Laravel 12 Upgrade - Framework migration
 - ⬜ Auto Jabber Notifications for Vendors - Real-time notifications
 - ⬜ Better Admin Control - Enhanced admin panel
-- ⬜ New UI with No Sidebars - Clean, modern interface
+- ✅ New UI with No Sidebars - Clean, modern interface
 - ⬜ Integrated Anti-Phishing Page - Onion address verification system
 - ✅ Separate Admin Layout - Dedicated administrative interface
 - ✅ Separate Vendor Layout - Dedicated vendor management interface

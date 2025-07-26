@@ -45,3 +45,4 @@
 ## July 26, 2025
 
 - **Update Navbar and Add a Timer to Complete an Order**
+- **Redesign Footer and Remove Left-Right Bars**
