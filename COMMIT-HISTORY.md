@@ -51,3 +51,4 @@
 ## July 28, 2025
 
 - **More UI Updates**
+- **Create components.css and Add Donate Page**
