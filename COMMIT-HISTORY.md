@@ -52,3 +52,4 @@
 
 - **More UI Updates**
 - **Create components.css and Add Donate Page**
+- **Change Auto Confirmation Time for Different Product Types**
