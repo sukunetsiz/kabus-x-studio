@@ -14,7 +14,6 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 
 </div>
 
-# Kabus-X Development To-Do List
 - ✅ Vendor Trust System - Rating system for vendors
 - ✅ Queue-Based Order System - Efficient order processing
 - ⬜ Custom Session Timer for Login - Adaptive session management
@@ -33,7 +32,11 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 
 ---
 
-### Screenshots
+<div align="center">
+
+# Screenshots
+
+</div>
 
 ![Automated Delivery](images/1.png)
 ---
@@ -48,7 +51,7 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 
 <div align="center">
 
-## Contact Information
+# Contact Information
 
 **Session Contact:** `051a9c0bd47481ed45165903ad3e1c8ca27ae7a9e3c90dbbd61aa96337ea6aba27`
 
@@ -61,6 +64,8 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 <div align="center">
 
 ## Payment Address
+
+![Monero QR](images/monero-donate.png)
 
 **Monero (XMR)** `89p3o8Umho9haXyAJHMwrfeeqea2UoJaZ6sknFvYVAitMFKJYTW54huh1enTQHBwdaWq5duyZ4ZsZjVcHQyiRZmfGbQMhce`
 
