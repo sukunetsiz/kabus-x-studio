@@ -33,6 +33,19 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 
 ---
 
+### Screenshots
+
+![Automated Delivery](docs/1.png)
+---
+![All Orders Index Page](docs/2.png)
+---
+![All Orders Show Page](docs/3.png)
+---
+![Redesigned Footer and Navbar](docs/4.png)
+---
+![Vendor Trust](docs/5.png)
+---
+
 <div align="center">
 
 ## Contact Information
