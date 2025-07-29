@@ -34,6 +34,24 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 
 <div align="center">
 
+# My Services
+
+</div>
+
+## What I Do
+
+- Adding extra features to your Kabus-X marketplace
+- Redesigning the entire marketplace's UI
+- Helping you install Kabus-X
+- Solving database conflicts you have from previous versions of Kabus and Kabus-X
+
+## What I Don't Do
+
+- Setting up the marketplace's server for you
+- Being your partner or co-developer for your marketplace
+
+<div align="center">
+
 # Screenshots
 
 </div>
