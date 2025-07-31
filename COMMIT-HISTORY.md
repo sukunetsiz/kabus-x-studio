@@ -58,3 +58,7 @@
 
 - **Add All Orders to Admin Panel for Full Order Management**
 - **Add Order and Dispute Statistics**
+
+## July 31, 2025
+
+- **Add Report / Message Vendor Buttons, Rename to AutomatedDelivery Model, Restrict GIF and WebP Uploads**
