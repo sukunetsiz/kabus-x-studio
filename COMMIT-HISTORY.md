@@ -62,3 +62,7 @@
 ## July 31, 2025
 
 - **Add Report / Message Vendor Buttons, Rename to AutomatedDelivery Model, Restrict GIF and WebP Uploads**
+
+## August 1, 2025
+
+- **Update to Laravel 12**

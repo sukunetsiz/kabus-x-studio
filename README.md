@@ -20,7 +20,7 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 - ✅ Auto Delivery for Digital Products - Instant digital delivery
 - ⬜ Image Feedback from Vendors for Dead Drop Orders - Photo proof system
 - ⬜ Site-Wide Markdown Support - Markdown in all content areas
-- ⬜ Laravel 12 Upgrade - Framework migration
+- ✅ Laravel 12 Upgrade - Framework migration
 - ⬜ Auto Jabber Notifications for Vendors - Real-time notifications
 - ✅ Better Admin Control - Enhanced admin panel
 - ✅ New UI with No Sidebars - Clean, modern interface
