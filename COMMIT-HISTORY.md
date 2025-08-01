@@ -66,3 +66,4 @@
 ## August 1, 2025
 
 - **Update to Laravel 12**
+- **Add bepsvpt/secure-headers Package**
