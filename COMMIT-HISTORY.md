@@ -67,3 +67,7 @@
 
 - **Update to Laravel 12**
 - **Add bepsvpt/secure-headers Package**
+
+## August 2, 2025
+
+- **Update Profile Picture Logic and Image**
