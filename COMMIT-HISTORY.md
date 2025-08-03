@@ -71,3 +71,7 @@
 ## August 2, 2025
 
 - **Update Profile Picture Logic and Image**
+
+## August 3, 2025
+
+- **Add Anti-phishing CAPTCHA**
