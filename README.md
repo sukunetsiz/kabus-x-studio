@@ -66,6 +66,8 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 ---
 ![Vendor Trust](images/5.png)
 ---
+![Anti-Phishing Page](images/6.png)
+---
 
 <div align="center">
 
