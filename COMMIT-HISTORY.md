@@ -75,3 +75,7 @@
 ## August 3, 2025
 
 - **Add Anti-phishing CAPTCHA**
+
+## August 5, 2025
+
+- **Bug Fixes**
