@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I am sukunetsiz, the creator and developer of the Kabus-X Monero Marketplace Script. As of August 8, 2025, I am writing this message while alive, safe, with internet access, and under no pressure or influence of any substance. To prove that this message is not automated, I will mention current news. Among this week’s top headlines, Israel’s political-security cabinet has approved a plan to take direct control over Gaza City, and OpenAI has released GPT-5, its most advanced AI model to date.
+
+The purpose of creating Kabus-X was to contribute to the Monero ecosystem and ensure its growth. It was never created for any illegal purpose, nor does it encourage such activities. The aim of this marketplace script is to facilitate the sale of legal products online as anonymously as possible.
+
+Privacy is a human right, and it can never be taken away from anyone, nor should it even be suggested.
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEWYzNWVhBYephvoH2lVR7UxN3pzAFAmiVkYgACgkQlVR7UxN3
+pzBU3Qv/SCQ95uJ+o4EHHqKuyQIJgnbKVdgg3f/kXTrD7075EQ868S0o/LlFuzaC
+ZO0hJyOOzH4LxiQ+7L6h6T4J9zwKKc3GwIbm5CoZLYF34nA5sK6/Zd732BMjdOCV
+xC36fyXMFaIenHd7/z6haa7av9R4ZZNgjfe0lqD18N/lbdSZDHZ30jNbSRemx4Ym
+VBUM+lmTZAiwcHnu8Tltv9NeSOhfV0FpYQBhtoNErCYxkCKgXTLwR96pcpRd31TJ
+oaN+tWJ1W9jUEfsrCwVsW52u0ZQqNRGsQfVVR9pGwl8vqvMoFyCh5MSfmUveFKCO
++6wQ6gupV98MDJbICx3IxECZuEsdHhtuqtZHhueKxan/wLmsbHEtmzi3DQsgerkg
+k77HTDMMcAOAIpUBUgp3Fz6YWWS4NDQmEyiZRHcnd06WaHHPKyJd0MK0c9QvUZor
+LlM2bQA0MxfNtjZVOpbeu3CV5MmGiMlW382o8J1wgoI5FfllJ6ijiQG0nPpnnV0Q
+RBwAzKn/
+=InCY
+-----END PGP SIGNATURE-----
+
