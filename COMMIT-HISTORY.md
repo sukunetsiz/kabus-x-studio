@@ -79,3 +79,11 @@
 ## August 5, 2025
 
 - **Bug Fixes**
+
+## August 8, 2025
+
+- **Update Canary**
+
+## August 10, 2025
+
+- **Add Notifications for Support Requests, Order Updates and Dispute Updates**
