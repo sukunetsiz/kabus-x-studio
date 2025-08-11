@@ -88,3 +88,7 @@
 
 - **Add Notifications for Support Requests, Order Updates and Dispute Updates**
 - **Add 5 Star Review System to Product Reviews**
+
+## August 11, 2025
+
+- **Add Delivery Proof System for Dead Drop Orders**

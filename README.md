@@ -18,7 +18,7 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 - ✅ Queue-Based Order System - Efficient order processing
 - ⬜ Custom Session Timer for Login - Adaptive session management
 - ✅ Auto Delivery for Digital Products - Instant digital delivery
-- ⬜ Image Feedback from Vendors for Dead Drop Orders - Photo proof system
+- ✅ Image Feedback from Vendors for Dead Drop Orders - Photo proof system
 - ⬜ Site-Wide Markdown Support - Markdown in all content areas
 - ✅ Laravel 12 Upgrade - Framework migration
 - ⬜ Auto Jabber Notifications for Vendors - Real-time notifications
