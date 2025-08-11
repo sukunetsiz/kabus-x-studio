@@ -92,3 +92,4 @@
 ## August 11, 2025
 
 - **Add Delivery Proof System for Dead Drop Orders**
+- **Add Fiat Price Info to Monero Payments**
