@@ -98,3 +98,4 @@
 
 - **Add Session Timer to Login**
 - **Minor Fix**
+- **Base64 Encode Images Site-wide**
