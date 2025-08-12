@@ -93,3 +93,7 @@
 
 - **Add Delivery Proof System for Dead Drop Orders**
 - **Add Fiat Price Info to Monero Payments**
+
+## August 12, 2025
+
+- **Add Session Timer to Login**

@@ -16,7 +16,7 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 
 - ✅ Vendor Trust System - Rating system for vendors
 - ✅ Queue-Based Order System - Efficient order processing
-- ⬜ Custom Session Timer for Login - Adaptive session management
+- ✅ Custom Session Timer for Login - Adaptive session management
 - ✅ Auto Delivery for Digital Products - Instant digital delivery
 - ✅ Image Feedback from Vendors for Dead Drop Orders - Photo proof system
 - ⬜ Site-Wide Markdown Support - Markdown in all content areas
@@ -69,6 +69,8 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 ![Anti-Phishing Page](images/6.png)
 ---
 ![Star System for Reviews](images/7.png)
+---
+![Session Timer for Login](images/8.png)
 ---
 
 <div align="center">
