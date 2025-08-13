@@ -24,7 +24,6 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 - ✅ Enhanced Security Headers - Advanced security implementation with bepsvpt/secure-headers
 - ✅ Fiat Price Display - Real-time fiat currency conversion for Monero payments
 - ⬜ Auto Jabber Notifications for Vendors - Real-time notifications
-- ✅ Better Admin Control - Enhanced admin panel
 - ✅ Order Management in Admin Panel - Complete order oversight for administrators
 - ✅ Order & Dispute Statistics in Admin Panel - Real-time analytics and reporting
 - ✅ New UI with No Sidebars - Clean, modern interface
