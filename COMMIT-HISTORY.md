@@ -99,3 +99,7 @@
 - **Add Session Timer to Login**
 - **Minor Fix**
 - **Base64 Encode Images Site-wide**
+
+## August 13, 2025
+
+- **Update Error Pages**
