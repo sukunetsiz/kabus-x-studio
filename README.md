@@ -32,7 +32,7 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 - ✅ Separate Vendor Layout - Dedicated vendor management interface
 - ⬜ Mobile Responsive Design - Optimized mobile experience
 - ✅ Base64 Image Encoding - Enhanced security for all site images
-- ✅ 5-Star Review System - Professional rating system for products and vendors
+- ✅ 5-Star Review System - Professional rating system for products
 - ⬜ Secure Hidden Service Guide - OPSEC documentation
 
 ---
