@@ -19,11 +19,10 @@ Kabus-X is a premium and custom version of Kabus, designed for high-end users wh
 - ✅ Custom Session Timer for Login - Adaptive session management
 - ✅ Auto Delivery for Digital Products - Instant digital delivery
 - ✅ Image Feedback from Vendors for Dead Drop Orders - Photo proof system
-- ⬜ Site-Wide Markdown Support - Markdown in all content areas
 - ✅ Laravel 12 Upgrade - Framework migration
 - ✅ Enhanced Security Headers - Advanced security implementation with bepsvpt/secure-headers
 - ✅ Fiat Price Display - Real-time fiat currency conversion for Monero payments
-- ⬜ Auto Jabber Notifications for Vendors - Real-time notifications
+- ⬜ Auto XMPP Notifications for Vendors - Real-time notifications
 - ✅ Order Management in Admin Panel - Complete order oversight for administrators
 - ✅ Order & Dispute Statistics in Admin Panel - Real-time analytics and reporting
 - ✅ New UI with No Sidebars - Clean, modern interface
