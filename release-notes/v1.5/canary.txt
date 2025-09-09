@@ -1,0 +1,22 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I am sukunetsiz, the creator and developer of the Kabus Monero Marketplace Script. As of September 9, 2025, I am writing this message while alive, safe, with internet access, and under no pressure or influence of any substance. To prove that this message is not automated, I will mention current news. Among this week’s top headlines, a devastating earthquake struck eastern Afghanistan, causing heavy casualties and widespread destruction. At the same time, supporters of an opposition party in Türkiye used tables and chairs to block police outside their party headquarters amid escalating tensions.
+
+The purpose of creating Kabus was to contribute to the Monero ecosystem and ensure its growth. It was never created for any illegal purpose, nor does it encourage such activities. The aim of this marketplace script is to facilitate the sale of legal products online as anonymously as possible.
+
+Privacy is a human right, and it can never be taken away from anyone, nor should it even be suggested.
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEWYzNWVhBYephvoH2lVR7UxN3pzAFAmi/07IACgkQlVR7UxN3
+pzA52wv/aEBrtZHNiL+hUuoFyJeELBvZdSkIejqjsKGugIQnw2DavCQ7pHftCWfe
+xViRV7wyw1eGqVG/J+sLYnz1N2cK36o0MtgSMZSbgJ3jPe7IdZ52zGcne/vNL7cT
+9qjdCaHrZ4G4zT4ZVK6tMKJvj8E/Fvbn7zdVccWNzYMG4WeSd6dR28Dt/E4zMn31
+sV3AIs8Yc0MEull/nBSk6bXbtMNPy1fUhYGMchPQElut90LUK+qc9LpeHVr9rEjA
+u9B3r+W2k4vuElHP9kK1xLf1fYkaZ/TMsmd9ISykQoCKqC3zhqwEfC+rJoewa4wX
+56rCzk6O1mGe47v2Onvjby/1EjH4t9jhlzZKCjFemSGDboPoBC1hOQzW5dzbK8CW
+53To1EK64rmAhPnGEzpJmTLCcfQiv9hbZgpdw0P7ieqe9y9Jt96zWN7ldifKUqcu
+Kg6W1A6Vvk3IaJdTGsGsvV4xk6gmBC6GZmvC/EG1hpHwu/D6hh/auqJpUsNgWnNM
+JX7NVNKM
+=ptor
+-----END PGP SIGNATURE-----

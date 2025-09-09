@@ -103,3 +103,7 @@
 ## August 13, 2025
 
 - **Update Error Pages**
+
+## September 9, 2025
+
+- **Update License and Canary**
